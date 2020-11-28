@@ -1,5 +1,5 @@
-# simple snake game~
-# made by "Kushan Eranga"
+# simple snake game
+# made by - "Kushan Eranga"
 
 import turtle
 import time
